@@ -1,1 +1,36 @@
-This is
+#Technical Assignment
+
+Scripting Assessment [Estimated Time: 2 hours]
+
+You are tasked to create an automated test case of following website https://www.saucedemo.com with following steps:
+1.       Login
+2.       Add one item to the cart
+3.       Go to basket
+4.       Check out
+5.       Enter personal info and continue
+6.       Finish
+
+Description:
+
+Use any automation technology or scripting language according to your experience and preference.
+Please submit source code together with instructions on how install and run your automated test case.
+
+Submission Instructions:
+•	Send the script to the following recipient/s:
+•	Guillaume.Deswardt@rapiddeploy.com
+ 
+ 
+API Assessment [Estimated Time: 2 hours]
+ 
+Endpoint: https://v6.exchangerate-api.com/v6/1fc80820c72b0163bc9c7536/latest/USD
+ 
+Description:
+
+Use postman and create a postman collection for the following scenarios: 
+•	Verify the HTTP status is 200
+•	Count the total number of currencies returned within the response
+•	Verify the currency ‘GBP’ is shown within the response
+
+Submission Instructions:
+•	Export the postman collection and sent it to the following recipient/s:
+•	Guillaume.Deswardt@rapiddeploy.com
